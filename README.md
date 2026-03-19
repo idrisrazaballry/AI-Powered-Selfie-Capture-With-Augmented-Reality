@@ -71,8 +71,3 @@ Future Enhancements
 - Support for mobile applications
 - Face recognition for login
 - Filters based on emotional recognition
-- Integration for cloud uploads
-
-- lhjkl;'lkjk;';lkjkl'
-- ll
-- ';ll;''
