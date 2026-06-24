@@ -88,23 +88,4 @@ hjkl;'
   4554
   ';lkkl;'
   4554
-  ;lkkl;'
-  454
-  ';lkjhkl;'
-  4554
-  ';lkjkl;'
-  554
-  ';lkjkl;'
-  54
-  ';lkjjkl;'
-  454
-  ';lkkl;'
-  54
-  ';lkjkl;'
-  554
-  ';lkj[]\787\[poighjkl;'
-  4
-  ';lkjhkl;'
-  47\][oiuiop[]\
-  1/.kp[]
-  
+  ;lkk
