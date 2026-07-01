@@ -54,7 +54,7 @@ AI-Selfie-Camera/
 
 You can run this application instantly without installing Python, setting up an IDE, or managing dependencies.
 
-1. Go to the [Latest Releases Page]().
+1. Go to the [Latest Releases Page](https://github.com/idrisrazaballry/AI-Powered-Selfie-Capture-With-Augmented-Reality/releases/tag/v1.0.0).
 2. Download the **`AI-Selfie-Camera-Windows.zip`** file under the Assets dropdown menu.
 3. Locate the file on your computer, right-click it, and select **Extract All...**.
 4. Open the extracted folder and double-click **`main.exe`** to start the application.
