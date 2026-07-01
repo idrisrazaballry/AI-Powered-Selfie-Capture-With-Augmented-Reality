@@ -1,11 +1,11 @@
-AI Selfie Camera with Augmented Reality
+## AI Selfie Camera with Augmented Reality
 
-Project Overview
+## Project Overview
 The "AI Selfie Camera with Augmented Reality" is a desktop application developed in Python that facilitates "hands-free selfie capturing" through the use of "facial gestures and voice commands". This application incorporates computer vision, facial landmark detection, and real-time AR filters to deliver an engaging and intelligent selfie experience.
 
 The system accommodates "smile capture", "blink capture", "voice-triggered capture", and "manual capture", while also applying various AR filters in real time.
 
-Key Features
+## Key Features
 - Real-time webcam feed utilizing OpenCV  
 - Smile detection based on mouth curvature ratio  
 - Blink detection employing Eye Aspect Ratio (EAR)  
@@ -22,7 +22,7 @@ Key Features
 - Cooldown mechanism to prevent multiple captures  
 - User-friendly GUI designed with Tkinter  
 
-Technologies Used
+## Technologies Used
 - Python 3.10+
 - OpenCV
 - MediaPipe Face Mesh
@@ -31,7 +31,7 @@ Technologies Used
 - NumPy
 - Pillow (PIL)
 
-Capture Modes
+## Capture Modes
 - Smile -> Captures a selfie upon detection of a smile.
 - Blink -> Captures a selfie during an intentional blink.
 - Voice -> Captures a selfie via voice commands.
