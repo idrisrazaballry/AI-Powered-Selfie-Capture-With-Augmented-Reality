@@ -38,7 +38,7 @@ Capture Modes
 - Manual -> Capture initiated by button press.
 - Disable -> Deactivates detection.
 
-Project Structure
+## Project Structure
 AI-Selfie-Camera/
 ├── main.py
 ├── glass.py
